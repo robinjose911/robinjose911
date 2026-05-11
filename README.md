@@ -4,7 +4,7 @@ Founder / CPTO building applied AI products, agentic systems, and enterprise Gen
 
 I am currently building Nexora and Curaay, with a focus on voice agents, agentic workflows, healthcare booking, and production-grade AI systems. Also the Founder/CEO of AIGist24 - a boutique consulting company focused on building high impact AI solutions for enterprises.
 
-Previously, I was Chief Data & Analytics Officer at Berlin based Unicon wefox and have built and exited AI/data startups.
+Previously, I was Chief Data & Analytics Officer at Berlin-based unicorn wefox and have built and exited AI/data startups.
 
 I am based in Berlin.
 

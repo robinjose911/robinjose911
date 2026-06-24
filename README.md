@@ -29,6 +29,7 @@ Recommended starting points:
 | Project | What it is | Link |
 |---|---|---|
 | **Loop Engineering Handbook** | A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code). | [Repo](https://github.com/robinjose911/loop-engineering-handbook) |
+| **LLM Router Demo** | Side-by-side benchmark of premium LLM calls vs cost-aware routing, with a live savings simulator from 1k to 10M requests/month. Makes LLM unit economics visible before they hit your P&L. | [Repo](https://github.com/robinjose911/llm-router-demo) |
 | Agentic AI architecture playbook | Patterns and reference architecture for production agentic systems. | Coming soon |
 | Voice agent reference stack | Reference stack for real-time voice agents and outbound automation. | Coming soon |
 | AI agent evaluation template | Template for evaluating, scoring, and benchmarking AI agents. | Coming soon |

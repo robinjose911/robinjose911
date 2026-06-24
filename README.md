@@ -26,11 +26,14 @@ Most of my active product work is in private repositories. I use this profile to
 
 Recommended starting points:
 
-- Agentic AI architecture playbook: coming soon!
-- Voice agent reference stack:  coming soon!
-- AI agent evaluation template:  coming soon!
-- Healthcare AI data-flow template:  coming soon!
-- LLM observability starter:  coming soon!
+| Project | What it is | Link |
+|---|---|---|
+| **Loop Engineering Handbook** | A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code). | [Repo](https://github.com/robinjose911/loop-engineering-handbook) |
+| Agentic AI architecture playbook | Patterns and reference architecture for production agentic systems. | Coming soon |
+| Voice agent reference stack | Reference stack for real-time voice agents and outbound automation. | Coming soon |
+| AI agent evaluation template | Template for evaluating, scoring, and benchmarking AI agents. | Coming soon |
+| Healthcare AI data-flow template | Compliant data-flow patterns for healthcare AI. | Coming soon |
+| LLM observability starter | Starter setup for LLM tracing, metrics, and observability. | Coming soon |
 
 ## Companies (Currently Active)
 

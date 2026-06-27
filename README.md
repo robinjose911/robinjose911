@@ -31,6 +31,7 @@ I am based in Berlin.
 ![BullMQ](https://img.shields.io/badge/-BullMQ-C1121F?style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/-Coolify-8B5CF6?style=for-the-badge&logo=coolify&logoColor=white)
 
 **AI & voice**<br>
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)

@@ -40,6 +40,13 @@ I am based in Berlin.
 ![LiveKit](https://img.shields.io/badge/-LiveKit-1FD5F9?style=for-the-badge&logo=livekit&logoColor=black)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
+**AI agents & harnesses**<br>
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cowork](https://img.shields.io/badge/-Cowork-6E56CF?style=for-the-badge)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-1A1A1A?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/-Hermes-2E2E2E?style=for-the-badge)
+
 ## Selected work
 
 Most of my active product work is in private repositories. I use this profile to share public reference projects, architecture notes, and implementation templates around AI and agentic systems.

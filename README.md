@@ -67,14 +67,14 @@ I am based in Berlin.
 
 Most of my active product work is in private repositories. I use this profile to share public reference projects, architecture notes, and implementation templates around AI and agentic systems.
 
-### [Loop Engineering Handbook](https://github.com/robinjose911/loop-engineering-handbook)
-A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code).
-
 ### [Agentic Handbook](https://github.com/robinjose911/agentic-handbook)
 A vendor-neutral playbook for shipping reliable AI agents in production: design patterns, anti-patterns, decision trees, and procurement-grade checklists, anchored by the AGENTIC mnemonic. Includes 5 runnable reference examples and an explicit EU AI Act lens.
 
 ### [Callplane](https://github.com/robinjose911/callplane)
 A production-grade control plane for AI voice agents: LiveKit rooms, SIP telephony, provider failover, BullMQ reliability, cost metering, webhooks, and a self-service console. Runs in stub mode with zero API keys.
+
+### [Loop Engineering Handbook](https://github.com/robinjose911/loop-engineering-handbook)
+A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code).
 
 ### [LLM Router Demo](https://github.com/robinjose911/llm-router-demo)
 Side-by-side benchmark of premium LLM calls vs cost-aware routing, with a live savings simulator from 1k to 10M requests/month. Makes LLM unit economics visible before they hit your P&L.

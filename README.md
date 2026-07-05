@@ -58,7 +58,7 @@ Recommended starting points:
 | **Loop Engineering Handbook** | A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code). | [Repo](https://github.com/robinjose911/loop-engineering-handbook) |
 | **Agentic Handbook** | A vendor-neutral playbook for shipping reliable AI agents in production: design patterns, anti-patterns, decision trees, and procurement-grade checklists, anchored by the AGENTIC mnemonic. Includes 5 runnable reference examples and an explicit EU AI Act lens. | [Repo](https://github.com/robinjose911/agentic-handbook) |
 | **LLM Router Demo** | Side-by-side benchmark of premium LLM calls vs cost-aware routing, with a live savings simulator from 1k to 10M requests/month. Makes LLM unit economics visible before they hit your P&L. | [Repo](https://github.com/robinjose911/llm-router-demo) |
-| Voice agent reference stack | Reference stack for real-time voice agents and outbound automation. | Coming soon |
+| **Callplane** | The control plane for AI voice agents — SIP telephony with provider failover, BullMQ-backed reliability, cost metering, and a self-service console, running on LiveKit + Gemini/OpenAI/Azure Realtime. Ships with a stub-first demo mode so the full call flow runs with zero API keys. | [Repo](https://github.com/robinjose911/callplane) |
 | AI agent evaluation template | Template for evaluating, scoring, and benchmarking AI agents. | Coming soon |
 | Healthcare AI data-flow template | Compliant data-flow patterns for healthcare AI. | Coming soon |
 | LLM observability starter | Starter setup for LLM tracing, metrics, and observability. | Coming soon |

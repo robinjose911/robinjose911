@@ -6,7 +6,7 @@
 
 Founder / CPTO building applied AI products, agentic systems, and enterprise GenAI platforms.
 
-I am currently building Nexora and Curaay, with a focus on voice agents, agentic workflows, healthcare booking, and production-grade AI systems. Also the Founder/CEO of AIGist24 - a boutique consulting company focused on building high impact AI solutions for enterprises.
+I am currently building Nexora and Curaay, with a focus on voice agents, agentic workflows, healthcare booking, and production-grade AI systems. I am also Founder and CEO of AIGist24, a boutique consultancy focused on high-impact enterprise AI solutions.
 
 Previously, I was Chief Data & Analytics Officer at Berlin-based unicorn wefox and have built and exited AI/data startups.
 
@@ -82,7 +82,6 @@ A stack-agnostic guide to AI evals: one canonical worked example — a synthetic
 ### [LLM Router Demo](https://github.com/robinjose911/llm-router-demo)
 Side-by-side benchmark of premium LLM calls vs cost-aware routing, with a live savings simulator from 1k to 10M requests/month. Makes LLM unit economics visible before they hit your P&L.
 
-I'm gradually publishing more of these — next up is an AI agent evaluation template, with a healthcare AI data-flow template and an LLM observability starter after that.
 
 ## Companies (Currently Active)
 

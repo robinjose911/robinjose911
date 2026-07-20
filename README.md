@@ -76,6 +76,9 @@ A production-grade control plane for AI voice agents: LiveKit rooms, SIP telepho
 ### [Loop Engineering Handbook](https://github.com/robinjose911/loop-engineering-handbook)
 A guide to loop engineering, a copy-paste prompt library, and 7 worked examples that actually run — with the iteration logs, cost ledgers, and outputs (including work that isn't code).
 
+### [Evals That Ship](https://github.com/robinjose911/evals-that-ship)
+A stack-agnostic guide to AI evals: one canonical worked example — a synthetic support agent — taken through error analysis, taxonomy, deterministic scorers, a calibrated LLM judge, and a CI gate, then implemented identically five ways (Promptfoo, DeepEval, Ragas, Langfuse, Phoenix). Every number in the repo is generated from a committed file; nothing is hand-typed.
+
 ### [LLM Router Demo](https://github.com/robinjose911/llm-router-demo)
 Side-by-side benchmark of premium LLM calls vs cost-aware routing, with a live savings simulator from 1k to 10M requests/month. Makes LLM unit economics visible before they hit your P&L.
 
